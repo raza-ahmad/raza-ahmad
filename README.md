@@ -1,4 +1,3 @@
-![logo](Ahmad raza(1).png
 <h1 align="center">Hi 👋, I'm Ahmad Raza</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="coding" width=400 src="https://github.com/raza-ahmad/raza-ahmad/assets/138312465/71ea9e47-d147-4314-84fe-0e12823cf666"
