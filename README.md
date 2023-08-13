@@ -1,4 +1,4 @@
-(![image](https://github.com/raza-ahmad/raza-ahmad/assets/138312465/7cdded98-4169-4089-b669-b9f786d0dc2b)
+![image](https://github.com/raza-ahmad/raza-ahmad/assets/138312465/7cdded98-4169-4089-b669-b9f786d0dc2b)
 
 
 <h1 align="center">Hi 👋, I'm Ahmad Raza</h1>
