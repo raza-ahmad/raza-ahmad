@@ -1,4 +1,5 @@
-![image](https://github.com/raza-ahmad/raza-ahmad/assets/138312465/9647e777-e5d7-4159-b652-18ec3284b319)
+(![image](https://github.com/raza-ahmad/raza-ahmad/assets/138312465/7cdded98-4169-4089-b669-b9f786d0dc2b)
+
 
 <h1 align="center">Hi 👋, I'm Ahmad Raza</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
